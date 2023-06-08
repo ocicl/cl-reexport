@@ -1,0 +1,9 @@
+* cl-reexport
+
+Reexport external symbols in other packages.
+
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/takagi/cl-reexport.git |
+| commit  | 03ad7a0                                       |
+| systems | cl-reexport                                   |
+|---------+-----------------------------------------------|
